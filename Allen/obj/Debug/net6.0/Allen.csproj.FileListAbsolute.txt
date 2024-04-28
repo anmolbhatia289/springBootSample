@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.AssemblyInfo.cs
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.sourcelink.json
+C:\github\LowLevelDesigns\Allen\bin\Debug\net6.0\Allen.exe
+C:\github\LowLevelDesigns\Allen\bin\Debug\net6.0\Allen.deps.json
+C:\github\LowLevelDesigns\Allen\bin\Debug\net6.0\Allen.runtimeconfig.json
+C:\github\LowLevelDesigns\Allen\bin\Debug\net6.0\Allen.dll
+C:\github\LowLevelDesigns\Allen\bin\Debug\net6.0\Allen.pdb
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.dll
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\refint\Allen.dll
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.pdb
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\Allen.genruntimeconfig.cache
+C:\github\LowLevelDesigns\Allen\obj\Debug\net6.0\ref\Allen.dll

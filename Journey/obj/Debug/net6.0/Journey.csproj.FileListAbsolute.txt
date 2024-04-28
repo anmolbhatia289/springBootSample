@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\Journey\bin\Debug\net6.0\Journey.exe
+C:\github\LowLevelDesigns\Journey\bin\Debug\net6.0\Journey.deps.json
+C:\github\LowLevelDesigns\Journey\bin\Debug\net6.0\Journey.runtimeconfig.json
+C:\github\LowLevelDesigns\Journey\bin\Debug\net6.0\Journey.dll
+C:\github\LowLevelDesigns\Journey\bin\Debug\net6.0\Journey.pdb
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.AssemblyInfo.cs
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.sourcelink.json
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.dll
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\refint\Journey.dll
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.pdb
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\Journey.genruntimeconfig.cache
+C:\github\LowLevelDesigns\Journey\obj\Debug\net6.0\ref\Journey.dll

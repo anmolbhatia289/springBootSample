@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\BowlingGameSystem\bin\Debug\net6.0\BowlingGameSystem.exe
+C:\github\LowLevelDesigns\BowlingGameSystem\bin\Debug\net6.0\BowlingGameSystem.deps.json
+C:\github\LowLevelDesigns\BowlingGameSystem\bin\Debug\net6.0\BowlingGameSystem.runtimeconfig.json
+C:\github\LowLevelDesigns\BowlingGameSystem\bin\Debug\net6.0\BowlingGameSystem.dll
+C:\github\LowLevelDesigns\BowlingGameSystem\bin\Debug\net6.0\BowlingGameSystem.pdb
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.AssemblyInfo.cs
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.sourcelink.json
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.dll
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\refint\BowlingGameSystem.dll
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.pdb
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\BowlingGameSystem.genruntimeconfig.cache
+C:\github\LowLevelDesigns\BowlingGameSystem\obj\Debug\net6.0\ref\BowlingGameSystem.dll

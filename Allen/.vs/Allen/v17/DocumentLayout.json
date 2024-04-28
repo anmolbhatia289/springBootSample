@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\LowLevelDesigns\\Allen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285FE36-F5FE-486D-BE16-5EB7577CD533}|..\\AllenTest\\AllenTest.csproj|c:\\github\\lowleveldesigns\\allentest\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285FE36-F5FE-486D-BE16-5EB7577CD533}|..\\AllenTest\\AllenTest.csproj|c:\\github\\lowleveldesigns\\allentest\\dealtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\controllers\\dealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:controllers\\dealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\repository\\dealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:repository\\dealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\models\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:models\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285FE36-F5FE-486D-BE16-5EB7577CD533}|..\\AllenTest\\AllenTest.csproj|c:\\github\\lowleveldesigns\\allentest\\sellertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285FE36-F5FE-486D-BE16-5EB7577CD533}|..\\AllenTest\\AllenTest.csproj|c:\\github\\lowleveldesigns\\allentest\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285FE36-F5FE-486D-BE16-5EB7577CD533}|..\\AllenTest\\AllenTest.csproj|c:\\github\\lowleveldesigns\\allentest\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|c:\\github\\lowleveldesigns\\allen\\allen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4673A784-8464-4FE1-83A0-A6B7A3545AD5}|Allen.csproj|solutionrelative:allen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DealTests.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\AllenTest\\DealTests.cs",
+              "RelativeDocumentMoniker": "..\\AllenTest\\DealTests.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\AllenTest\\DealTests.cs",
+              "RelativeToolTip": "..\\AllenTest\\DealTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:54:35.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\AllenTest\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "..\\AllenTest\\CustomerTests.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\AllenTest\\CustomerTests.cs",
+              "RelativeToolTip": "..\\AllenTest\\CustomerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:23:09.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:52:01.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Models\\Seller.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Seller.cs",
+              "RelativeToolTip": "Models\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:51:24.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvxYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:55:21.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:54:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:55:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DealController.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\DealController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DealController.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\DealController.cs",
+              "RelativeToolTip": "Controllers\\DealController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:55:42.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DealRepository.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\DealRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DealRepository.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\DealRepository.cs",
+              "RelativeToolTip": "Repository\\DealRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:54:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Controllers\\SellerController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:55:15.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:54:32.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SellerRepository.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\SellerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SellerRepository.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Repository\\SellerRepository.cs",
+              "RelativeToolTip": "Repository\\SellerRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:54:16.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Deal.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Deal.cs",
+              "RelativeDocumentMoniker": "Models\\Deal.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Deal.cs",
+              "RelativeToolTip": "Models\\Deal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:51:55.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:51:46.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SellerTests.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\AllenTest\\SellerTests.cs",
+              "RelativeDocumentMoniker": "..\\AllenTest\\SellerTests.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\AllenTest\\SellerTests.cs",
+              "RelativeToolTip": "..\\AllenTest\\SellerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:19:57.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\AllenTest\\ProductTests.cs",
+              "RelativeDocumentMoniker": "..\\AllenTest\\ProductTests.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\AllenTest\\ProductTests.cs",
+              "RelativeToolTip": "..\\AllenTest\\ProductTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:33:43.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\AllenTest\\Usings.cs",
+              "RelativeDocumentMoniker": "..\\AllenTest\\Usings.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\AllenTest\\Usings.cs",
+              "RelativeToolTip": "..\\AllenTest\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:19:39.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Allen.csproj",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Allen.csproj",
+              "RelativeDocumentMoniker": "Allen.csproj",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Allen.csproj",
+              "RelativeToolTip": "Allen.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T06:51:38.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\Allen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\Allen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:09:50.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
