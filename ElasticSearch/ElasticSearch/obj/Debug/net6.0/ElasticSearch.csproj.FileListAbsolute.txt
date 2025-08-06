@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\bin\Debug\net6.0\ElasticSearch.exe
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\bin\Debug\net6.0\ElasticSearch.deps.json
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\bin\Debug\net6.0\ElasticSearch.runtimeconfig.json
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\bin\Debug\net6.0\ElasticSearch.dll
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\bin\Debug\net6.0\ElasticSearch.pdb
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.AssemblyInfo.cs
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.sourcelink.json
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.dll
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\refint\ElasticSearch.dll
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.pdb
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ElasticSearch.genruntimeconfig.cache
+C:\github\LowLevelDesigns\ElasticSearch\ElasticSearch\obj\Debug\net6.0\ref\ElasticSearch.dll

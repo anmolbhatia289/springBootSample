@@ -1,0 +1,15 @@
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.AssemblyInfoInputs.cache
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.AssemblyInfo.cs
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.csproj.CoreCompileInputs.cache
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.sourcelink.json
+C:\github\LowLevelDesigns\DistributedLocking\bin\Debug\net6.0\DistributedLocking.exe
+C:\github\LowLevelDesigns\DistributedLocking\bin\Debug\net6.0\DistributedLocking.deps.json
+C:\github\LowLevelDesigns\DistributedLocking\bin\Debug\net6.0\DistributedLocking.runtimeconfig.json
+C:\github\LowLevelDesigns\DistributedLocking\bin\Debug\net6.0\DistributedLocking.dll
+C:\github\LowLevelDesigns\DistributedLocking\bin\Debug\net6.0\DistributedLocking.pdb
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.dll
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\refint\DistributedLocking.dll
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.pdb
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\DistributedLocking.genruntimeconfig.cache
+C:\github\LowLevelDesigns\DistributedLocking\obj\Debug\net6.0\ref\DistributedLocking.dll

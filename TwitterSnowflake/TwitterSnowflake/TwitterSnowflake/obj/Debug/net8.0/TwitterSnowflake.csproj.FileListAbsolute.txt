@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\bin\Debug\net8.0\TwitterSnowflake.exe
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\bin\Debug\net8.0\TwitterSnowflake.deps.json
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\bin\Debug\net8.0\TwitterSnowflake.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\bin\Debug\net8.0\TwitterSnowflake.dll
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\bin\Debug\net8.0\TwitterSnowflake.pdb
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.dll
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\refint\TwitterSnowflake.dll
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.pdb
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\TwitterSnowflake.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\LowLevelDesigns\TwitterSnowflake\TwitterSnowflake\TwitterSnowflake\obj\Debug\net8.0\ref\TwitterSnowflake.dll

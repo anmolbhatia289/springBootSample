@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\LowLevelDesigns\\DistributedLocking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|c:\\github\\lowleveldesigns\\distributedlocking\\lockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|solutionrelative:lockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE30846-37D8-474B-A314-2220BAB5368F}|..\\DistributedLockingTest\\DistributedLockingTest.csproj|c:\\github\\lowleveldesigns\\distributedlockingtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|c:\\github\\lowleveldesigns\\distributedlocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|c:\\github\\lowleveldesigns\\distributedlocking\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|solutionrelative:lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|c:\\github\\lowleveldesigns\\distributedlocking\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27B00D-EFA3-46EF-A64E-E0FBE93C5A00}|DistributedLocking.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\DistributedLocking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\DistributedLocking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:54:13.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\DistributedLockingTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\DistributedLockingTest\\UnitTest1.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\DistributedLockingTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\DistributedLockingTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:51:57.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LockManager.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\DistributedLocking\\LockManager.cs",
+              "RelativeDocumentMoniker": "LockManager.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\DistributedLocking\\LockManager.cs",
+              "RelativeToolTip": "LockManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:27:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\DistributedLocking\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\DistributedLocking\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:27:40.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lock.cs",
+              "DocumentMoniker": "C:\\github\\LowLevelDesigns\\DistributedLocking\\Lock.cs",
+              "RelativeDocumentMoniker": "Lock.cs",
+              "ToolTip": "C:\\github\\LowLevelDesigns\\DistributedLocking\\Lock.cs",
+              "RelativeToolTip": "Lock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:27:35.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
